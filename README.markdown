@@ -32,11 +32,13 @@ E-Stick integrates advanced peripherals to elevate functionality and support fut
 5. **Light-Bar**: A color-coded status indicator. Advanced customization allows pairing colors with timers for segment management or memory reinforcement during rehearsals.
 6. **Built-in Gyroscope**: Enhances intuitive control by detecting subtle movements for precise operation.
 
-### Core Specifications
+> [!NOTE]
+> ### Core Specifications
 
 - **Battery Life**: Up to 48 hours of high-intensity use (including Light-Bar) and 3 years in sleep mode (limited by \~2-year battery self-discharge).
 - **Wireless Protocols**: Supports Bluetooth Low Energy 6.0, Bluetooth Mesh, Zigbee, Thread, Matter, Amazon Sidewalk, and a proprietary 2.4 GHz protocol for robust, low-power connectivity.
 - **Report Rate**: Industry-leading 8000 Hz for ultra-responsive performance, surpassing most interactive presentation pens and minimizing operational latency.
+
 
 ## Roadmap
 
