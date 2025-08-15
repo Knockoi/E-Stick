@@ -1,7 +1,7 @@
 
-<center>
+<div align="center">
 # E-Stick
-</center> 
+</div>
   
 ## Overview
 
