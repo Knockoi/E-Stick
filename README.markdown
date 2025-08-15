@@ -2,7 +2,8 @@
 ![E-Stick](https://github.com/Knockoi/E-Stick/blob/main/image/Title.png)
 
 
-  
+ [![](https://img.shields.io/discord/1226517355421634601?logo=discord&logoColor=ffffff&color=4e4c97)](https://discord.gg/Tf3PsfkTJF)  
+ 
 ## Overview
 
 E-Stick is an innovative presentation pen powered by the Nordic Semiconductor platform, designed to streamline classroom and professional interactions for educators and presenters. With a focus on lightweight and intuitive operation, E-Stick eliminates the discomfort of traditional presentation tools, allowing users to move freely without being tethered to a computer or podium. Whether fostering engaging classroom discussions or delivering professional presentations, E-Stick empowers users to focus on their content and audience.
@@ -47,13 +48,14 @@ E-Stick is actively evolving, with key milestones ahead:
 - **Programmable Customization**: Future updates will enable user-defined programming via the 2.4 GHz protocol for expanded functionality.
 - **Community-Driven Features**: We’re exploring additional interaction modes and integrations based on user feedback.
   
-## Community
+## Community  
+[![](https://img.shields.io/discord/1226517355421634601?logo=discord&logoColor=ffffff&color=4e4c97)](https://discord.gg/Tf3PsfkTJF)  
 
 Join the conversation to shape E-Stick’s future:
 
 - Share feedback or ideas in the discussions.
 - Collaborate on app development by contacting us at knockoi.tw@gmail.com.
-Join the Discord -> [OOC cooperative](https://discord.gg/Tf3PsfkTJF)
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
