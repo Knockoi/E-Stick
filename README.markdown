@@ -4,7 +4,7 @@
 
 E-Stick is an innovative presentation pen powered by the Nordic Semiconductor platform, designed to streamline classroom and professional interactions for educators and presenters. With a focus on lightweight and intuitive operation, E-Stick eliminates the discomfort of traditional presentation tools, allowing users to move freely without being tethered to a computer or podium. Whether fostering engaging classroom discussions or delivering professional presentations, E-Stick empowers users to focus on their content and audience.
 
-Inspired by an elementary school teacher dedicated to shaping young minds, E-Stick is optimized for classroom engagement, enabling intuitive teaching and student interaction while remaining versatile for all presenters. The firmware is under active development, and hardware production is in progress. Our mission is to deliver a reliable, human-centered tool that enhances teaching and presenting experiences.
+Inspired by my elementary school teacher, whose dedication to teaching sparked this project, E-Stick is optimized for classroom engagement, enabling intuitive teaching and student interaction while remaining versatile for all presenters. The firmware is under active development, and hardware production is in progress. Our mission is to deliver a reliable, human-centered tool that enhances teaching and presenting experiences.
 
 ## Features
 
