@@ -23,7 +23,7 @@ Inspired by my elementary school teacher, whose dedication to teaching sparked t
 Read First->[E-Stick Description](https://github.com/Knockoi/E-Stick/blob/main/E-Stick%20DM%20ver1.0.pdf)  
 ### Core Interaction Modes
 
-| Interactive interface | Description |
+| Interface | Description |
 |----------------------|------------|
 | **Key-Pad** | A dual-button panel with left and right keys, both fully customizable for tasks like slide navigation or triggering specific tools. |
 | **Slider** | A side-mounted slider replaces traditional scroll wheels, dynamically adjusting speed based on swipe velocity. It also doubles as a customizable button for precise control. |
