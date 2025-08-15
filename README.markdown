@@ -1,10 +1,4 @@
 
-<div align="center">    
-  
-# E-Stick  
-</div>
-  
-
 ![E-Stick](https://github.com/Knockoi/E-Stick/blob/main/image/PCB%20FORMAT.png)
 
 
