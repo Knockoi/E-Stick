@@ -40,27 +40,7 @@ E-Stick is actively evolving, with key milestones ahead:
 - **Software Development**: A dedicated app is in development to enhance configuration and interaction.
 - **Programmable Customization**: Future updates will enable user-defined programming via the 2.4 GHz protocol for expanded functionality.
 - **Community-Driven Features**: We’re exploring additional interaction modes and integrations based on user feedback.
-
-## Getting Started
-
-The project is in the development phase, with firmware and hardware preparations ongoing. To explore the current state or contribute:
-
-1. Clone the repository: `git clone https://github.com/Knockoi/E-Stick.git`
-2. Check the issues for open tasks.
-3. Follow the contributing guidelines to submit ideas or code.
-
-## Contributing
-
-We welcome contributions to make E-Stick the ultimate lightweight, intuitive presentation tool. To contribute:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-See our contributing guidelines for details.
-
+  
 ## Community
 
 Join the conversation to shape E-Stick’s future:
