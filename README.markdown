@@ -2,7 +2,7 @@
 ![E-Stick](https://github.com/Knockoi/E-Stick/blob/main/image/Title.png)
 
 
- [![](https://discord.com/api/webhooks/1406047741037248614/3qRlpne-T6fezpOZnELX-8cbahN_sDAMqTnQKz87pUWZySwqcCW4g3lTwITd_mYcqihj)](https://discord.gg/Tf3PsfkTJF)  
+ [![](https://discord.com/api/guilds/1226517355421634601/widget.json)](https://discord.gg/Tf3PsfkTJF)  
  
 ## Overview
 
@@ -49,7 +49,7 @@ E-Stick is actively evolving, with key milestones ahead:
 - **Community-Driven Features**: We’re exploring additional interaction modes and integrations based on user feedback.
   
 ## Community  
-[![](https://discord.com/api/webhooks/1406047741037248614/3qRlpne-T6fezpOZnELX-8cbahN_sDAMqTnQKz87pUWZySwqcCW4g3lTwITd_mYcqihj)](https://discord.gg/Tf3PsfkTJF)  
+[![](https://discord.com/api/guilds/1226517355421634601/widget.json)](https://discord.gg/Tf3PsfkTJF)  
 
 Join the conversation to shape E-Stick’s future:
 
