@@ -53,7 +53,7 @@ Join the conversation to shape E-Stick’s future:
 
 - Share feedback or ideas in the discussions.
 - Collaborate on app development by contacting us at knockoi.tw@gmail.com.
-
+Join the Discord -> [OOC cooperative](https://discord.gg/Tf3PsfkTJF)
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
