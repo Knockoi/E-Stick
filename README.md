@@ -1,81 +1,65 @@
-# E-Stick: Advanced Interactive Presentation Pen
+E-Stick: Advanced Interactive Presentation Pen
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-in%20development-orange.svg)](https://github.com/gnu3/e-stick)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+Overview
+E-Stick is an innovative presentation pen powered by the Nordic Semiconductor platform, designed to streamline classroom and professional interactions for educators and presenters. With a focus on lightweight and intuitive operation, E-Stick eliminates the discomfort of traditional presentation tools, allowing users to move freely without being tethered to a computer or podium. Whether fostering engaging classroom discussions or delivering professional presentations, E-Stick empowers users to focus on their content and audience.
+Inspired by an elementary school teacher dedicated to shaping young minds, E-Stick is optimized for classroom engagement, enabling intuitive teaching and student interaction while remaining versatile for all presenters. The firmware is under active development, and hardware production is in progress. Our mission is to deliver a reliable, human-centered tool that enhances teaching and presenting experiences.
+Features
+Core Interaction Modes
+E-Stick offers customizable operation modes to enhance efficiency and user experience:
 
-## Overview
+Key-Pad: A dual-button panel with left and right keys, both fully customizable for tasks like slide navigation or triggering specific tools.
+Slider: A side-mounted slider replaces traditional scroll wheels, dynamically adjusting speed based on swipe velocity. It also doubles as a customizable button for precise control.
+Radial-Stick: A radial menu system where tilting to specific angles selects functions. Users can customize angles and menu options, with support for multiple profiles (e.g., teaching or presentation modes) for seamless switching.
+Home-Tap: A single tap reverts to the previous step or activates features like Spotlight or a virtual magnifying glass for content emphasis.
 
-E-Stick is a cutting-edge presentation pen powered by the Nordic Semiconductor platform, crafted for educators and presenters to streamline classroom and professional interactions. Designed with lightweight and intuitive operation in mind, E-Stick eliminates the discomfort of traditional presentation tools, freeing users from constant trips between the computer and podium. Whether fostering engaging classroom discussions or delivering seamless presentations, E-Stick empowers users to focus on their content and audience.
-
-Inspired by the needs of an elementary school teacher still shaping young minds, E-Stick is optimized for classroom engagement while remaining versatile for all presenters. The firmware is under active development, with hardware production underway. We aim to deliver a reliable, human-centered tool that enhances teaching and presenting experiences.
-
-## Features
-
-### Core Interaction Modes
-
-E-Stick offers a range of customizable operation modes to enhance efficiency and user experience:
-
-- **Key-Pad**: A dual-button panel with left and right keys, both fully customizable for tasks like slide navigation or triggering specific tools.
-- **Slider**: A side-mounted slider replaces traditional scroll wheels, dynamically adjusting speed based on swipe velocity. It also doubles as a customizable button for precise control.
-- **Radial-Stick**: A radial menu system where tilting to specific angles selects functions. Users can customize angles and menu options, with support for multiple profiles (e.g., teaching or presenting modes) for quick switching.
-- **Home-Tap**: A single tap reverts to the previous step or activates features like Spotlight or a virtual magnifying glass to highlight content.
-
-### Peripheral Features
-
+Peripheral Features
 E-Stick integrates advanced peripherals to elevate functionality and support future enhancements:
 
-1. **X-Axis Vibration Feedback**: Configurable timed vibrations for tactile operation confirmation and cues.
-2. **Dual-Channel Recording**: High-quality audio capture with advanced noise reduction (switchable to mono). Advanced use includes leveraging the built-in microphone as a backup for presentations.
-3. **Physical Laser Pointer**: Precise pointing for emphasizing key points.
-4. **AR Integration & Indoor Positioning**: Supports augmented reality (AR) applications with built-in indoor positioning for immersive interactions.
-5. **Light-Bar**: A color-coded status indicator. Advanced customization allows pairing colors with timers for segment management or memory reinforcement during rehearsals.
-6. **Built-in Gyroscope**: Enhances intuitive control by detecting subtle movements for precise operation.
+X-Axis Vibration Feedback: Configurable timed vibrations for tactile operation confirmation and cues.
+Dual-Channel Recording: High-quality audio capture with advanced noise reduction (switchable to mono). Advanced use includes leveraging the built-in microphone as a backup presentation mic.
+Physical Laser Pointer: Precise pointing for emphasizing key content.
+AR Integration & Indoor Positioning: Supports augmented reality (AR) applications with built-in indoor positioning for immersive interactions.
+Light-Bar: A color-coded status indicator. Advanced customization allows pairing colors with timers for segment management or memory reinforcement during rehearsals.
+Built-in Gyroscope: Enhances intuitive control by detecting subtle movements for precise operation.
 
-### Core Specifications
+Core Specifications
 
-- **Battery Life**: Up to 48 hours of high-intensity use (including Light-Bar) and 3 years in sleep mode (limited by ~2-year battery self-discharge).
-- **Wireless Protocols**: Supports Bluetooth Low Energy 6.0, Bluetooth Mesh, Zigbee, Thread, Matter, Amazon Sidewalk, and a proprietary 2.4 GHz protocol for robust, low-power connectivity.
-- **Report Rate**: Industry-leading 8000 Hz for ultra-responsive performance, surpassing most interactive presentation pens and minimizing operational latency.
+Battery Life: Up to 48 hours of high-intensity use (including Light-Bar) and 3 years in sleep mode (limited by ~2-year battery self-discharge).
+Wireless Protocols: Supports Bluetooth Low Energy 6.0, Bluetooth Mesh, Zigbee, Thread, Matter, Amazon Sidewalk, and a proprietary 2.4 GHz protocol for robust, low-power connectivity.
+Report Rate: Industry-leading 8000 Hz for ultra-responsive performance, surpassing most interactive presentation pens and minimizing operational latency.
 
-## Roadmap
-
+Roadmap
 E-Stick is actively evolving, with key milestones ahead:
-- **Software Development**: A dedicated app is in the works to enhance configuration and interaction.
-- **Programmable Customization**: Future updates will enable user-defined programming via the 2.4 GHz protocol for expanded functionality.
-- **Community-Driven Features**: We’re exploring additional interaction modes and integrations based on user feedback.
 
-## Getting Started
+Software Development: A dedicated app is in development to enhance configuration and interaction.
+Programmable Customization: Future updates will enable user-defined programming via the 2.4 GHz protocol for expanded functionality.
+Community-Driven Features: We’re exploring additional interaction modes and integrations based on user feedback.
 
+Getting Started
 The project is in the development phase, with firmware and hardware preparations ongoing. To explore the current state or contribute:
-1. Clone the repository: `git clone https://github.com/gnu3/e-stick.git`
-2. Check the [issues](https://github.com/gnu3/e-stick/issues) for open tasks.
-3. Follow the [contributing guidelines](CONTRIBUTING.md) to submit your ideas or code.
 
-## Contributing
+Clone the repository: git clone https://github.com/Knockoi/E-Stick.git
+Check the issues for open tasks.
+Follow the contributing guidelines to submit ideas or code.
 
+Contributing
 We welcome contributions to make E-Stick the ultimate lightweight, intuitive presentation tool. To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
 
-See our [contributing guidelines](CONTRIBUTING.md) for more details.
+Fork the repository.
+Create a feature branch (git checkout -b feature/your-feature).
+Commit your changes (git commit -m 'Add your feature').
+Push to the branch (git push origin feature/your-feature).
+Open a pull request.
 
-## Community
-
+See our contributing guidelines for details.
+Community
 Join the conversation to shape E-Stick’s future:
-- Share feedback or ideas in the [discussions](https://github.com/gnu3/e-stick/discussions).
-- Collaborate on app development by contacting us at [your-email@example.com](mailto:your-email@example.com).
 
-## License
+Share feedback or ideas in the discussions.
+Collaborate on app development by contacting us at knockoi@example.com.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
+License
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+Acknowledgments
 E-Stick is dedicated to educators like the elementary school teacher who inspired its creation, ensuring intuitive tools empower teaching and engagement.
-
----
-*Crafted with passion for intuitive, human-centered design.*
+Crafted with passion for intuitive, human-centered design.
