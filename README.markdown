@@ -47,9 +47,9 @@ E-Stick integrates advanced peripherals to elevate functionality and support fut
 ### Core Specifications  
   - **Battery Life**: Up to 48 hours of high-intensity use (including Light-Bar) and 3 years in sleep mode (limited by \~2-year battery self-discharge).
   - **Wireless Protocols**: Supports Bluetooth Low Energy 6.0, Bluetooth Mesh, Zigbee, Thread, Matter, Amazon Sidewalk, and a proprietary 2.4 GHz protocol for robust, low-power connectivity.
-  - **Report Rate**: Industry-leading 8000 Hz for ultra-responsive performance, surpassing most interactive presentation pens and minimizing operational latency.   
+  - > **Note:** Report Rate is industry-leading 8000 Hz, providing ultra-responsive performance. This surpasses most interactive presentation pens and minimizes operational latency.
 
-
+  
 
 ## Roadmap
 
