@@ -11,6 +11,7 @@ Inspired by my elementary school teacher, whose dedication to teaching sparked t
 
 ## Features
 
+Read First->[E-Stick Description](https://github.com/Knockoi/E-Stick/blob/main/E-Stick%20DM%20ver1.0.pdf)  
 ### Core Interaction Modes
 
 E-Stick offers customizable operation modes to enhance efficiency and user experience:
