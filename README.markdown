@@ -67,7 +67,7 @@ See our contributing guidelines for details.
 Join the conversation to shape E-Stick’s future:
 
 - Share feedback or ideas in the discussions.
-- Collaborate on app development by contacting us at knockoi@example.com.
+- Collaborate on app development by contacting us at knockoi.tw@gmail.com.
 
 ## License
 
