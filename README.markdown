@@ -23,12 +23,13 @@ Inspired by my elementary school teacher, whose dedication to teaching sparked t
 Read First->[E-Stick Description](https://github.com/Knockoi/E-Stick/blob/main/E-Stick%20DM%20ver1.0.pdf)  
 ### Core Interaction Modes
 
-E-Stick offers customizable operation modes to enhance efficiency and user experience:
+| Interactive interface | Description |
+|----------------------|------------|
+| **Key-Pad** | A dual-button panel with left and right keys, both fully customizable for tasks like slide navigation or triggering specific tools. |
+| **Slider** | A side-mounted slider replaces traditional scroll wheels, dynamically adjusting speed based on swipe velocity. It also doubles as a customizable button for precise control. |
+| **Radial-Stick** | A radial menu system where tilting to specific angles selects functions. Users can customize angles and menu options, with support for multiple profiles (e.g., teaching or presentation modes) for seamless switching. |
+| **Home-Tap** | A single tap reverts to the previous step or activates features like Spotlight or a virtual magnifying glass for content emphasis. |
 
-- **Key-Pad**: A dual-button panel with left and right keys, both fully customizable for tasks like slide navigation or triggering specific tools.
-- **Slider**: A side-mounted slider replaces traditional scroll wheels, dynamically adjusting speed based on swipe velocity. It also doubles as a customizable button for precise control.
-- **Radial-Stick**: A radial menu system where tilting to specific angles selects functions. Users can customize angles and menu options, with support for multiple profiles (e.g., teaching or presentation modes) for seamless switching.
-- **Home-Tap**: A single tap reverts to the previous step or activates features like Spotlight or a virtual magnifying glass for content emphasis.
 
 ### Peripheral Features
 
