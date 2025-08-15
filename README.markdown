@@ -35,12 +35,14 @@ Read First->[E-Stick Description](https://github.com/Knockoi/E-Stick/blob/main/E
 
 E-Stick integrates advanced peripherals to elevate functionality and support future enhancements:
 
-1. **X-Axis Vibration Feedback**: Configurable timed vibrations for tactile operation confirmation and cues.
-2. **Dual-Channel Recording**: High-quality audio capture with advanced noise reduction (switchable to mono). Advanced use includes leveraging the built-in microphone as a backup presentation mic.
-3. **Physical Laser Pointer**: Precise pointing for emphasizing key content.
-4. **AR Integration & Indoor Positioning**: Supports augmented reality (AR) applications with built-in indoor positioning for immersive interactions.
-5. **Light-Bar**: A color-coded status indicator. Advanced customization allows pairing colors with timers for segment management or memory reinforcement during rehearsals.
-6. **Built-in Gyroscope**: Enhances intuitive control by detecting subtle movements for precise operation.
+|  Feature | Description |
+|-------------------|------------|
+| **X-Axis Vibration Feedback** | Configurable timed vibrations for tactile operation confirmation and cues. |
+| **Dual-Channel Recording** | High-quality audio capture with advanced noise reduction (switchable to mono). Advanced use includes leveraging the built-in microphone as a backup presentation mic. |
+| **Physical Laser Pointer** | Precise pointing for emphasizing key content. |
+| **AR Integration & Indoor Positioning** | Supports augmented reality (AR) applications with built-in indoor positioning for immersive interactions. |
+| **Light-Bar** | A color-coded status indicator. Advanced customization allows pairing colors with timers for segment management or memory reinforcement during rehearsals. |
+| **Built-in Gyroscope** | Enhances intuitive control by detecting subtle movements for precise operation. |
 
 ### Core Specifications  
   - **Battery Life**: Up to 48 hours of high-intensity use (including Light-Bar) and 3 years in sleep mode (limited by \~2-year battery self-discharge).
