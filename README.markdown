@@ -4,6 +4,11 @@
 # E-Stick  
 </div>
   
+
+![E-Stick](C:\Users\username\Pictures\screenshot.png)
+
+
+  
 ## Overview
 
 E-Stick is an innovative presentation pen powered by the Nordic Semiconductor platform, designed to streamline classroom and professional interactions for educators and presenters. With a focus on lightweight and intuitive operation, E-Stick eliminates the discomfort of traditional presentation tools, allowing users to move freely without being tethered to a computer or podium. Whether fostering engaging classroom discussions or delivering professional presentations, E-Stick empowers users to focus on their content and audience.
